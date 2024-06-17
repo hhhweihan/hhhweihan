@@ -8,10 +8,4 @@
 
 <div align="center" style="margin-bottom: 10px;">
 <img src="https://profile-counter.glitch.me/hhhweihan/count.svg" align="center" />
-</div>
-
-<div align="center">
-
-[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]
-
-</div>
+</div

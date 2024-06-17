@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @hhhweihan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hhhweihan&count_private=true&show_icons=true&theme=tokyonight" align="center" />
+</div>
 
-<!---
-hhhweihan/hhhweihan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+<img src="https://api.githubtrends.io/user/svg/hhhweihan/langs?time_range=one_year&compact=True&theme=dark" />
+</div>
+
+<div align="center" style="margin-bottom: 10px;">
+<img src="https://profile-counter.glitch.me/hhhweihan/count.svg" align="center" />
+</div>
+
+<div align="center">
+
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]
+
+</div>

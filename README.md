@@ -1,6 +1,7 @@
 # 信息简介
 - CSDN：[网站](https://blog.csdn.net/qq_42750240)
 - LeetCode：[网站](https://leetcode.cn/u/wh1024/)
+- Old_Github：[https://github.com/WH1024](https://github.com/WH1024)
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hhhweihan&count_private=true&show_icons=true&theme=tokyonight" align="center" />
 </div>

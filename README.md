@@ -13,7 +13,5 @@
 </div>
 
 <div align="center">
-
-[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mengshouer.netlify.app/)
-
+<img src="https://api.githubtrends.io/user/svg/hhhweihan/langs?time_range=one_year&compact=True&theme=dark" />
 </div>

@@ -11,7 +11,3 @@
 <div align="center" style="margin-bottom: 10px;">
 <img src="https://profile-counter.glitch.me/hhhweihan/count.svg" align="center" />
 </div>
-
-<div align="center">
-<img src="https://api.githubtrends.io/user/svg/hhhweihan/langs?time_range=one_year&compact=True&theme=dark" />
-</div>
